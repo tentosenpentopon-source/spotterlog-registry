@@ -1,10 +1,10 @@
 {
   "datasets": [
     {
-      "version": "20260101-01",
+      "version": "20260101-02",
       "lastUpdatedAt": "2026-01-01T12:00:00Z",
-      "sha256": "970bd7c119abde1c918a45b0be593cb4fbf5f76e18f641f70040293cc30084cb", // 20260101_01のハッシュ値
-      "file": "aircraft_registry_20260101_01.json"
+      "sha256": "a6194804d4aecb6798c40ca561fef53f51e04e851f3f2fb03bbf6d3e6a1aa1fd", // 20260101_02のハッシュ値
+      "file": "aircraft_registry_20260101_02.json"
     }
   ]
 }
