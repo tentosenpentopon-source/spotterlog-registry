@@ -1,0 +1,7 @@
+[
+  {"airline":"ANA","registration":"JA101A","type":"A320neo","status":"active"},
+  {"airline":"ANA","registration":"JA802A","type":"B787-8","status":"active"},
+  {"airline":"JAL","registration":"JA01XJ","type":"A350-900","status":"active"},
+  {"airline":"JAL","registration":"JA330J","type":"B737-800","status":"active"},
+  {"airline":"SKY","registration":"JA73NG","type":"B737-800","status":"active"}
+]
