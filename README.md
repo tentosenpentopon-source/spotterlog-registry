@@ -1,0 +1,2 @@
+# spotterlog-registry
+spotterlogのDB
