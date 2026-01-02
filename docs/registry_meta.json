@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "lastUpdatedAt": "2026-01-02T00:00:00Z",
+  "datasetVersion": "2026.01.02-1",
+  "db": {
+    "url": "",
+    "sha256": "",
+    "bytes": 0
+  },
+  "minAppVersion": "1.0.0",
+  "notes": "initial scaffold"
+}
