@@ -3,7 +3,7 @@
     {
       "version": "20260101-01",
       "lastUpdatedAt": "2026-01-01T12:00:00Z",
-      "sha256": "0123abcd...ef", // 実際のハッシュに置換
+      "sha256": "970bd7c119abde1c918a45b0be593cb4fbf5f76e18f641f70040293cc30084cb", // 20260101_01のハッシュ値
       "file": "aircraft_registry_20260101_01.json"
     }
   ]
